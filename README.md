@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0f172a/6366f1?text=Audiobook+Video+Maker" alt="Audiobook Video Maker Banner" />
-  
-  <br />
   
   <h1>Audiobook Video Maker</h1>
   
