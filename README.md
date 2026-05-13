@@ -101,15 +101,15 @@ graph TD
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application)*
+
 
 | Dashboard / Upload | Processing Queue |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/600x350/1e293b/ffffff?text=Upload+Screen" alt="Upload" /> | <img src="https://via.placeholder.com/600x350/1e293b/ffffff?text=Processing+Screen" alt="Processing" /> |
+| <img src="resources/dashboard.png" alt="Upload" /> | <img src="resources/processing.png" alt="Processing" /> |
 
 | Downloads Page | Dark Mode Design |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/600x350/1e293b/ffffff?text=Downloads+Screen" alt="Downloads" /> | <img src="https://via.placeholder.com/600x350/0f172a/ffffff?text=Dark+Mode" alt="Dark Mode" /> |
+| <img src="resources/downloads.png" alt="Downloads" /> | <img src="resources/darkmode.png" alt="Dark Mode" /> |
 
 ---
 
@@ -125,8 +125,8 @@ The easiest and most reliable way to run this application is via Docker Compose.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/audiobook-video-maker.git
-   cd audiobook-video-maker
+   git clone https://github.com/predXpramad/AudioVid.git
+   cd AudioVid
    ```
 
 2. **Configure Environment Variables**
